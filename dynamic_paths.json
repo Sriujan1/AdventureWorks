@@ -1,0 +1,52 @@
+[
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "ds_directory_name" : "Calender",
+        "ds_file_name" : "calendar.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "ds_directory_name" : "Customers",
+        "ds_file_name" : "customers.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "ds_directory_name" : "Product_Categories",
+        "ds_file_name" : "product_categories.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "ds_directory_name" : "Product_Subcategories",
+        "ds_file_name" : "product_subcategories.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "ds_directory_name" : "Products",
+        "ds_file_name" : "products.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "ds_directory_name" : "Returns",
+        "ds_file_name" : "returns.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "ds_directory_name" : "Sales_2015",
+        "ds_file_name" : "sales_2015.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "ds_directory_name" : "Sales_2016",
+        "ds_file_name" : "sales_2016.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "ds_directory_name" : "Sales_2017",
+        "ds_file_name" : "sales_2017.csv"
+    },
+    {
+        "ds_rel_url" : "Sriujan1/AdventureWorks/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "ds_directory_name" : "Territories",
+        "ds_file_name" : "territories.csv"
+    }
+]
